@@ -24,9 +24,3 @@ font-family: Karla;
 /* base styling & formatting */
 
 /* Welcome page */
-
-
-.welcome-image {
-  display: flex;
-  justify-content: flex-end;
-}
